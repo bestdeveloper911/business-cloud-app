@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="8px" height="16px" viewBox="0 0 8 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Icon — Facebook</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Organisms/Footer/Desktop/XL-Full" transform="translate(-1504.000000, -201.000000)" fill="#ffffff" fill-rule="nonzero">
+            <g id="Navigation" transform="translate(318.000000, 42.000000)">
+                <g id="Right" transform="translate(1151.000000, 0.000000)">
+                    <g id="Social" transform="translate(0.000000, 121.000000)">
+                        <g transform="translate(0.000000, 38.000000)" id="Atoms/Icons/Social/Facebook-—-Blue">
+                            <g transform="translate(31.000000, 0.000000)">
+                                <path d="M8.95633121,5.23719745 L8.95633121,3.86000849 C8.95633121,3.65326539 8.96584289,3.49312951 8.98517197,3.38000849 C9.00443312,3.26671762 9.04825478,3.15529512 9.11626327,3.04529936 C9.18416985,2.93537155 9.29413163,2.85948195 9.44597877,2.81742675 C9.59802972,2.77530361 9.80008493,2.75430998 10.0523482,2.75430998 L11.4294692,2.75430998 L11.4294692,0 L9.2278896,0 C7.95400425,0 7.0390828,0.302233546 6.48298938,0.906700637 C5.92696391,1.51130361 5.64898514,2.40186837 5.64898514,3.57873461 L5.64898514,5.23716348 L4,5.23716348 L4,7.99167728 L5.64888323,7.99167728 L5.64888323,15.9833885 L8.95629724,15.9833885 L8.95629724,7.99171125 L11.157741,7.99171125 L11.4487304,5.23719745 L8.95633121,5.23719745 Z" id="Facebook"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

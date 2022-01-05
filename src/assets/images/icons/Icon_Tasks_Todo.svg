@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon — Tasks — Todo</title>
+    <g id="Design-System" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.300000012">
+        <g id="Backend-Design-System/Atoms/Icons" transform="translate(-66.000000, -659.000000)" stroke="#415C85">
+            <g id="Notifications" transform="translate(50.000000, 593.000000)">
+                <g id="Default" transform="translate(0.000000, 50.000000)">
+                    <g id="Background" transform="translate(16.000000, 16.000000)">
+                        <rect x="0.5" y="0.5" width="15" height="15" rx="2"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
